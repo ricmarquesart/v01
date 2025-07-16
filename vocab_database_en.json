@@ -1,0 +1,492 @@
+[
+    {
+        "palavra":"away",
+        "ativa":true,
+        "fonte":"GPT",
+        "data_adicao":"2025-07-05T18:55:36.692292",
+        "escrita_completa":false,
+        "progresso":{
+            "Many students feel homesick when they move __________ from their families.":"nao_testado",
+            "He moved away last year.":"nao_testado",
+            "They threw the broken umbrella away after the storm.":"acerto",
+            "They are living away from their home country.":"acerto",
+            "She spends summers in Canada and winters ________ in Brazil.":"nao_testado",
+            "Please put the groceries ________ in the kitchen.":"nao_testado",
+            "The ship\u2019s anchor is ________ and ready to sail.":"nao_testado",
+            "His decision to move ________ surprised everyone.":"nao_testado",
+            "The ________ of her response made us wonder.":"nao_testado"
+        },
+        "mastery_count":0,
+        "data_adicao_dt":1751741736692.0
+    },
+    {
+        "palavra":"amend",
+        "ativa":true,
+        "fonte":"GPT",
+        "data_adicao":"2025-07-05T18:55:36.692292",
+        "escrita_completa":false,
+        "progresso":{
+            "You should __________ your resume before submitting it to a Canadian employer.":"nao_testado",
+            "The government decided to amend the legislation.":"nao_testado",
+            "Immigrants may need to amend their plans if their first application is rejected.":"nao_testado",
+            "He amended the immigration form before sending it.":"nao_testado",
+            "You must amend your mistakes, not ________ them.":"nao_testado",
+            "The policy may need to be __________ after review.":"nao_testado",
+            "The recent __________ was discussed in Parliament.":"nao_testado",
+            "The committee suggested an important __________ to the agreement.":"erro",
+            "She is an active __________ for educational reform.":"nao_testado"
+        },
+        "mastery_count":0,
+        "data_adicao_dt":1751741736692.0
+    },
+    {
+        "palavra":"Look into",
+        "ativa":true,
+        "fonte":"ANKI",
+        "data_adicao":"2025-07-05T18:55:36.692292",
+        "escrita_completa":false,
+        "progresso":{
+            "significado::Examinar":"acerto",
+            "traducao::Examinar":"nao_testado",
+            "sinonimo::Check":"nao_testado"
+        },
+        "mastery_count":0,
+        "data_adicao_dt":1751741736692.0
+    },
+    {
+        "palavra":"Forsaken",
+        "ativa":true,
+        "fonte":"ANKI",
+        "data_adicao":"2025-07-05T18:55:36.692292",
+        "escrita_completa":false,
+        "progresso":{
+            "significado::Esquecido":"nao_testado",
+            "traducao::Esquecido":"nao_testado",
+            "sinonimo::Deserted":"nao_testado"
+        },
+        "mastery_count":0,
+        "data_adicao_dt":1751741736692.0
+    },
+    {
+        "palavra":"leave behind",
+        "ativa":true,
+        "fonte":"GPT",
+        "data_adicao":"2025-07-05T18:55:36.692292",
+        "escrita_completa":false,
+        "progresso":{
+            "Many newcomers find it hard to __________ friends and family when moving to Canada.":"acerto",
+            "She had to leave behind her old job.":"nao_testado",
+            "Immigrants often have to leave behind many possessions.":"nao_testado",
+            "He left behind his hometown for a new opportunity.":"nao_testado",
+            "It is difficult to leave behind the past, but exciting to ________ the future.":"nao_testado",
+            "You sometimes have to __________ certain habits to adapt.":"nao_testado",
+            "She ________ all her worries and started fresh.":"nao_testado",
+            "The ________ of her country was emotional.":"nao_testado",
+            "He is ________ his old life and starting over.":"nao_testado"
+        },
+        "mastery_count":0,
+        "data_adicao_dt":1751741736692.0
+    },
+    {
+        "palavra":"get the hang of it",
+        "ativa":true,
+        "fonte":"GPT",
+        "data_adicao":"2025-07-05T18:55:36.692292",
+        "escrita_completa":false,
+        "progresso":{
+            "It can take some time to __________ when learning how to use Canadian transit.":"nao_testado",
+            "She got the hang of it after a few weeks.":"nao_testado",
+            "When you get the hang of something, you\u2026":"erro",
+            "You\u2019ll get the hang of it with practice.":"nao_testado",
+            "At first it\u2019s confusing, but soon you\u2019ll ________.":"nao_testado",
+            "Most people __________ after a few attempts.":"nao_testado",
+            "He put his coat on a ________ near the door.":"acerto",
+            "After several tries, she finally ________ the concept.":"nao_testado",
+            "She is ________ the routine of her new job.":"nao_testado"
+        },
+        "mastery_count":0,
+        "data_adicao_dt":1751741736692.0
+    },
+    {
+        "palavra":"a bit long",
+        "ativa":true,
+        "fonte":"GPT",
+        "data_adicao":"2025-07-05T18:55:36.692292",
+        "escrita_completa":false,
+        "progresso":{
+            "The wait for a family doctor in some Canadian cities can be __________.":"nao_testado",
+            "The orientation session was a bit long.":"nao_testado",
+            "The instructions were a bit long for a simple process.":"nao_testado",
+            "The immigration process can feel a bit long.":"nao_testado",
+            "The seminar was a bit long, but the lunch break was quite ________.":"nao_testado",
+            "The line at the Service Canada office was __________.":"nao_testado",
+            "The river flows ________ the border between the two provinces.":"acerto",
+            "She started to feel __________ after hearing about home.":"nao_testado",
+            "His ________ for his homeland was clear in his stories.":"nao_testado"
+        },
+        "mastery_count":0,
+        "data_adicao_dt":1751741736692.0
+    },
+    {
+        "palavra":"jarring",
+        "ativa":true,
+        "fonte":"GPT",
+        "data_adicao":"2025-07-05T18:55:36.692292",
+        "escrita_completa":false,
+        "progresso":{
+            "The sudden change in weather from hot to cold was quite __________.":"nao_testado",
+            "The sound of the alarm was jarring.":"nao_testado",
+            "The color combination in the room was jarring.":"nao_testado",
+            "His comment during the meeting was jarring.":"acerto",
+            "Some people find the city noise jarring, others find it ________.":"nao_testado",
+            "The colors in the painting are a bit __________.":"nao_testado",
+            "She opened the ________ of jam in the kitchen.":"nao_testado",
+            "The abrupt transition was quite __________.":"erro",
+            "He ________ the lid tightly onto the container.":"nao_testado"
+        },
+        "mastery_count":0,
+        "data_adicao_dt":1751741736692.0
+    },
+    {
+        "palavra":"lead up to",
+        "ativa":true,
+        "fonte":"GPT",
+        "data_adicao":"2025-07-05T18:55:36.692292",
+        "escrita_completa":false,
+        "progresso":{
+            "The months that __________ Canada Day are full of community events.":"nao_testado",
+            "There were many activities that led up to the ceremony.":"nao_testado",
+            "The changes in policy led up to the new law.":"nao_testado",
+            "A series of meetings led up to the final decision.":"nao_testado",
+            "The weeks lead up to the festival, but the days after are ________.":"nao_testado",
+            "There are celebrations that __________ Canada Day.":"acerto",
+            "The students are ________ their presentations next week.":"nao_testado",
+            "The ________ to the event took months of planning.":"nao_testado",
+            "The ________ process was stressful for the organizers.":"nao_testado"
+        },
+        "mastery_count":0,
+        "data_adicao_dt":1751741736692.0
+    },
+    {
+        "palavra":"fizzle out",
+        "ativa":true,
+        "fonte":"GPT",
+        "data_adicao":"2025-07-05T18:55:36.692292",
+        "escrita_completa":false,
+        "progresso":{
+            "Many business ideas __________ if there\u2019s not enough planning.":"erro",
+            "The project fizzled out.":"nao_testado",
+            "If a relationship fizzles out, what usually happens?":"nao_testado",
+            "Sometimes plans fizzle out before they begin.":"nao_testado",
+            "While some friendships last, others just ________ over time.":"nao_testado",
+            "The enthusiasm began to ________ after a few weeks.":"nao_testado",
+            "The soda began to ________ after being left open.":"nao_testado",
+            "Interest in the event ________ by the end of summer.":"nao_testado",
+            "A ________ in enthusiasm was noticed after the first month.":"erro"
+        },
+        "mastery_count":0,
+        "data_adicao_dt":1751741736692.0
+    },
+    {
+        "palavra":"Relief",
+        "ativa":true,
+        "fonte":"ANKI",
+        "data_adicao":"2025-07-05T18:55:36.692292",
+        "escrita_completa":false,
+        "progresso":{
+            "significado::Ajuda":"nao_testado",
+            "traducao::Ajuda":"nao_testado",
+            "sinonimo::Aid":"nao_testado"
+        },
+        "mastery_count":0,
+        "data_adicao_dt":1751741736692.0
+    },
+    {
+        "palavra":"Beyond",
+        "ativa":true,
+        "fonte":"ANKI",
+        "data_adicao":"2025-07-05T18:55:36.692292",
+        "escrita_completa":false,
+        "progresso":{
+            "significado::Al\u00e9m de":"nao_testado",
+            "traducao::Al\u00e9m de":"nao_testado",
+            "sinonimo::Surpassing":"acerto"
+        },
+        "mastery_count":0,
+        "data_adicao_dt":1751741736692.0
+    },
+    {
+        "palavra":"further investigation",
+        "ativa":true,
+        "fonte":"GPT",
+        "data_adicao":"2025-07-05T18:55:36.692292",
+        "escrita_completa":false,
+        "progresso":{
+            "The police said the case requires __________ before closing it.":"acerto",
+            "They decided on further investigation.":"nao_testado",
+            "The doctor ordered further investigation after the first test results.":"nao_testado",
+            "The doctor recommended further investigation of the symptoms.":"nao_testado",
+            "Some cases are simple, but others need ________ before a decision.":"nao_testado",
+            "The report is pending ________ by the manager.":"nao_testado",
+            "The police want to ________ the details.":"nao_testado",
+            "________ is crucial when results are unclear.":"nao_testado",
+            "The officer plans to ________ the situation.":"nao_testado"
+        },
+        "mastery_count":0,
+        "data_adicao_dt":1751741736692.0
+    },
+    {
+        "palavra":"Cluttered",
+        "ativa":true,
+        "fonte":"ANKI",
+        "data_adicao":"2025-07-05T18:55:36.692292",
+        "escrita_completa":false,
+        "progresso":{
+            "significado::Desorganizado":"nao_testado",
+            "traducao::Desorganizado":"nao_testado",
+            "sinonimo::Messy":"nao_testado"
+        },
+        "mastery_count":0,
+        "data_adicao_dt":1751741736692.0
+    },
+    {
+        "palavra":"get in touch",
+        "ativa":true,
+        "fonte":"GPT",
+        "data_adicao":"2025-07-05T18:55:36.692292",
+        "escrita_completa":false,
+        "progresso":{
+            "If you have questions about housing in Toronto, you can __________ with the city hotline.":"nao_testado",
+            "It\u2019s easy to get in touch with local services.":"nao_testado",
+            "When you get in touch with someone, what do you do?":"nao_testado",
+            "Please get in touch if you have more information.":"nao_testado",
+            "You can get in touch by phone, or ________ by email.":"nao_testado",
+            "After moving, I needed to ________ with my friends.":"nao_testado",
+            "The painting is smooth to the ________.":"nao_testado",
+            "We lost ________ after high school.":"erro",
+            "She ________ the baby\u2019s hand gently.":"nao_testado"
+        },
+        "mastery_count":0,
+        "data_adicao_dt":1751741736692.0
+    },
+    {
+        "palavra":"Utterance",
+        "ativa":true,
+        "fonte":"ANKI",
+        "data_adicao":"2025-07-05T18:55:36.692292",
+        "escrita_completa":false,
+        "progresso":{
+            "significado::Pron\u00fancia":"nao_testado",
+            "traducao::Pron\u00fancia":"nao_testado",
+            "sinonimo::Exclamation":"nao_testado"
+        },
+        "mastery_count":0,
+        "data_adicao_dt":1751741736692.0
+    },
+    {
+        "palavra":"take place",
+        "ativa":true,
+        "fonte":"GPT",
+        "data_adicao":"2025-07-06T01:56:27.225843",
+        "escrita_completa":false,
+        "progresso":{
+            "The Canada Day fireworks will __________ at 10 p.m. sharp.":"nao_testado",
+            "The ceremony will take place at City Hall.":"nao_testado",
+            "The meeting took place last Thursday.":"nao_testado",
+            "The event will take place next week.":"nao_testado",
+            "While some events take place in summer, others occur in ________.":"nao_testado",
+            "The exam will __________ in May.":"nao_testado",
+            "Several meetings are ________ this month.":"nao_testado",
+            "The ________ was broadcast live.":"nao_testado",
+            "She ________ the party at her house.":"erro"
+        },
+        "mastery_count":0,
+        "data_adicao_dt":null
+    },
+    {
+        "palavra":"undermining",
+        "ativa":true,
+        "fonte":"GPT",
+        "data_adicao":"2025-07-06T01:56:27.225843",
+        "escrita_completa":false,
+        "progresso":{
+            "Spreading false information can be __________ to public trust.":"nao_testado",
+            "Such behavior is undermining the team\u2019s morale.":"nao_testado",
+            "He kept undermining his own progress by skipping classes.":"nao_testado",
+            "Negative news can be undermining to your confidence.":"nao_testado",
+            "Good leadership strengthens, while poor leadership ________ a team.":"nao_testado",
+            "Criticism from coworkers can be __________.":"nao_testado",
+            "He tried to __________ her authority in the meeting.":"erro",
+            "The ________ of the foundation caused the building to lean.":"erro",
+            "Their efforts were ________ by constant criticism.":"nao_testado"
+        },
+        "mastery_count":0,
+        "data_adicao_dt":null
+    },
+    {
+        "palavra":"Remarkably",
+        "ativa":true,
+        "fonte":"GPT",
+        "data_adicao":"2025-07-06T01:56:27.225843",
+        "escrita_completa":false,
+        "progresso":{
+            "__________, she finished her degree while working full time and raising two kids.":"nao_testado",
+            "Remarkably, the process was completed in just one week.":"nao_testado",
+            "He managed, remarkably, to learn both English and French in one year.":"nao_testado",
+            "Remarkably, there were no delays during the trip.":"nao_testado",
+            "The winter was mild, but the following spring was ________ cold.":"nao_testado",
+            "The team performed __________ under pressure.":"nao_testado",
+            "That was a ________ improvement in your pronunciation.":"nao_testado",
+            "He made a ________ during the meeting.":"nao_testado",
+            "She ________ on the unusual weather.":"nao_testado"
+        },
+        "mastery_count":0,
+        "data_adicao_dt":null
+    },
+    {
+        "palavra":"aka",
+        "ativa":true,
+        "fonte":"GPT",
+        "data_adicao":"2025-07-06T01:56:27.225843",
+        "escrita_completa":false,
+        "progresso":{
+            "He\u2019s also known __________ \u201cThe Fixer\u201d in his neighborhood.":"nao_testado",
+            "\u201cAka\u201d stands for \u201calso known as.\u201d":"nao_testado",
+            "On official forms, \u201caka\u201d is used for\u2026":"nao_testado",
+            "She is aka \u201cThe Organizer\u201d at work.":"nao_testado",
+            "He\u2019s aka \u201cThe Chef,\u201d but his real name is ________.":"nao_testado",
+            "He was listed as ________ John Smith in the database.":"nao_testado",
+            "The company is ________ as \u201cEcoCorp.\u201d":"nao_testado",
+            "The term ________ is often used for celebrities.":"nao_testado",
+            "Her ________ was included in the report.":"erro"
+        },
+        "mastery_count":0,
+        "data_adicao_dt":null
+    },
+    {
+        "palavra":"Thereafter",
+        "ativa":true,
+        "fonte":"GPT",
+        "data_adicao":"2025-07-06T01:56:27.225843",
+        "escrita_completa":false,
+        "progresso":{
+            "The new immigration policy went into effect on July 1. __________, application procedures changed.":"nao_testado",
+            "Thereafter, the rules were strictly enforced.":"nao_testado",
+            "The service opened in May. Thereafter, more locations were added.":"nao_testado",
+            "You must submit the documents. Thereafter, you\u2019ll be contacted.":"acerto",
+            "The new law was passed in June. __________, complaints decreased.":"nao_testado",
+            "They moved away. __________, they lost contact with friends.":"erro",
+            "The ________ results will be published on the website.":"nao_testado"
+        },
+        "mastery_count":0,
+        "data_adicao_dt":null
+    },
+    {
+        "palavra":"set aside",
+        "ativa":true,
+        "fonte":"GPT",
+        "data_adicao":"2025-07-06T01:56:27.225843",
+        "escrita_completa":false,
+        "progresso":{
+            "If you want to save money for emergencies, __________ a small amount each month.":"nao_testado",
+            "It\u2019s smart to set aside money for unexpected expenses.":"nao_testado",
+            "The judge decided to set aside the previous verdict.":"nao_testado",
+            "You should set aside time to study every day.":"nao_testado",
+            "He set aside the letter, but decided to ________ the bill.":"nao_testado",
+            "They agreed to __________ their differences for the project.":"nao_testado",
+            "He ________ his personal issues to focus on work.":"nao_testado",
+            "Their ________ allowed them to invest in a new home.":"nao_testado",
+            "She ________ money for her daughter\u2019s education.":"nao_testado"
+        },
+        "mastery_count":0,
+        "data_adicao_dt":null
+    },
+    {
+        "palavra":"whereas",
+        "ativa":true,
+        "fonte":"GPT",
+        "data_adicao":"2025-07-06T01:56:27.225843",
+        "escrita_completa":false,
+        "progresso":{
+            "Some students prefer exams, ________ others like projects.":"nao_testado",
+            "He works days, whereas his wife works nights.":"nao_testado",
+            "Whereas many people drive to work, some cycle.":"nao_testado",
+            "Whereas some prefer the city, others choose the suburbs.":"nao_testado",
+            "Canada has cold winters, ________ Brazil is usually warm.":"nao_testado",
+            "Some students choose French, ________ others pick English.":"nao_testado",
+            "________, the proposal was accepted by the committee.":"nao_testado",
+            "________, the city is vibrant and welcoming.":"nao_testado",
+            "________, it\u2019s important to compare the two systems.":"nao_testado"
+        },
+        "mastery_count":0,
+        "data_adicao_dt":null
+    },
+    {
+        "palavra":"namely",
+        "ativa":true,
+        "fonte":"GPT",
+        "data_adicao":"2025-07-06T01:56:27.225843",
+        "escrita_completa":false,
+        "progresso":{
+            "Three cities were mentioned, __________ Vancouver, Calgary, and Montreal.":"erro",
+            "Some provinces, namely Quebec and Ontario, have specific programs for immigrants.":"nao_testado",
+            "You should visit some Canadian landmarks, namely Niagara Falls and Banff.":"nao_testado",
+            "Several festivals, namely Winterlude, take place in February.":"nao_testado",
+            "Many foods are healthy, __________ vegetables.":"nao_testado",
+            "There are two options, __________: bus or train.":"nao_testado",
+            "They are ________ the award after a famous author.":"nao_testado",
+            "He is known ________ for his scientific research.":"nao_testado",
+            "The ________ of the company changed last year.":"nao_testado"
+        },
+        "mastery_count":0,
+        "data_adicao_dt":null
+    },
+    {
+        "palavra":"look into",
+        "ativa":true,
+        "fonte":"GPT",
+        "data_adicao":"2025-07-06T01:56:27.225843",
+        "escrita_completa":false,
+        "progresso":{
+            "Newcomers are encouraged to __________ local resources for job hunting.":"nao_testado",
+            "It\u2019s important to look into all your options before choosing a university.":"nao_testado",
+            "When you look into a situation, you\u2026":"nao_testado",
+            "They promised to look into the complaint.":"nao_testado",
+            "You should look into housing early, not ________ it until the last minute.":"nao_testado",
+            "The manager asked the team to __________ the problem.":"nao_testado",
+            "She is __________ the company\u2019s finances now.":"erro",
+            "Their __________ revealed several issues.":"nao_testado",
+            "The inspector will ________ the complaint soon.":"nao_testado"
+        },
+        "mastery_count":0,
+        "data_adicao_dt":null
+    },
+    {
+        "palavra":"Go through with",
+        "ativa":true,
+        "fonte":"ANKI",
+        "data_adicao":"2025-07-07T20:53:22.106320",
+        "escrita_completa":false,
+        "progresso":{
+            "significado::Levar adiante":"nao_testado",
+            "traducao::Levar adiante":"nao_testado",
+            "sinonimo::Carry out":"nao_testado"
+        },
+        "mastery_count":0,
+        "data_adicao_dt":null
+    },
+    {
+        "palavra":"Undermining",
+        "ativa":true,
+        "fonte":"ANKI",
+        "data_adicao":"2025-07-07T20:53:22.106320",
+        "escrita_completa":false,
+        "progresso":{
+            "significado::Minora\u00e7\u00e3o":"nao_testado",
+            "traducao::Minora\u00e7\u00e3o":"nao_testado",
+            "sinonimo::Erosion":"nao_testado"
+        },
+        "mastery_count":0,
+        "data_adicao_dt":null
+    }
+]

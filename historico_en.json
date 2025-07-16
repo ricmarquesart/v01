@@ -1,0 +1,117 @@
+{
+    "quiz": [],
+    "gpt_quiz": [
+        {
+            "data": "2025-07-06T23:26:06.721274",
+            "acertos": [],
+            "erros": [
+                "fizzle out",
+                "amend",
+                "namely",
+                "jarring",
+                "aka",
+                "Thereafter",
+                "undermining",
+                "get the hang of it",
+                "take place",
+                "look into"
+            ],
+            "score": 0,
+            "total": 10
+        },
+        {
+            "data": "2025-07-06T23:26:08.102946",
+            "acertos": [],
+            "erros": [
+                "fizzle out",
+                "amend",
+                "namely",
+                "jarring",
+                "aka",
+                "Thereafter",
+                "undermining",
+                "get the hang of it",
+                "take place",
+                "look into"
+            ],
+            "score": 0,
+            "total": 10
+        }
+    ],
+    "mixed_quiz": [
+        {
+            "data": "2025-07-05T19:18:46.710899",
+            "acertos": [
+                "Cluttered",
+                "a bit long",
+                "Beyond",
+                "Relief",
+                "get the hang of it",
+                "lead up to",
+                "Forsaken",
+                "jarring",
+                "away",
+                "Look into"
+            ],
+            "erros": [],
+            "score": 100,
+            "total": 10
+        },
+        {
+            "data": "2025-07-05T19:18:48.411030",
+            "acertos": [
+                "Cluttered",
+                "a bit long",
+                "Beyond",
+                "Relief",
+                "get the hang of it",
+                "lead up to",
+                "Forsaken",
+                "jarring",
+                "away",
+                "Look into"
+            ],
+            "erros": [],
+            "score": 100,
+            "total": 10
+        },
+        {
+            "data": "2025-07-06T02:15:00.090068",
+            "acertos": [
+                "get the hang of it",
+                "Utterance",
+                "away",
+                "further investigation",
+                "leave behind",
+                "Thereafter",
+                "Beyond"
+            ],
+            "erros": [
+                "fizzle out",
+                "undermining",
+                "get in touch"
+            ],
+            "score": 70,
+            "total": 10
+        },
+        {
+            "data": "2025-07-06T02:15:01.555671",
+            "acertos": [
+                "get the hang of it",
+                "Utterance",
+                "away",
+                "further investigation",
+                "leave behind",
+                "Thereafter",
+                "Beyond"
+            ],
+            "erros": [
+                "fizzle out",
+                "undermining",
+                "get in touch"
+            ],
+            "score": 70,
+            "total": 10
+        }
+    ]
+}

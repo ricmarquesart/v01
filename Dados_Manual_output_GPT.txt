@@ -1,0 +1,252 @@
+fr;1-Gap-Fill;En hiver au Canada, il faut souvent __________ du chocolat chaud pour se réchauffer.;boire | vouloir | mauvais | froid;boire;boire;A1
+fr;2-Word-Meaning;Les enfants apprennent à boire de l'eau régulièrement à l'école.;consommer un liquide | ouvrir la porte | sortir en famille | se sentir fatigué;consommer un liquide;boire;A1
+fr;2-Word-Meaning;Il faut boire pendant un effort physique intense.;s’hydrater | nager | marcher | cuisiner;s’hydrater;boire;A1
+fr;3-Paraphrase;Il est important de boire beaucoup d'eau pendant l'été.;s’hydrater | vouloir | mauvais | ensemble;s’hydrater;boire;A1
+fr;4-Minimal-Pair;Il préfère boire du lait, alors que sa sœur préfère ________ du jus.;boire | vouloir | porter | famille;boire;boire;A1
+fr;5-Cognate-Gap;Après le sport, il faut __________ de l’eau pour récupérer.;boire | boireur | buveur | boirette;boire;boire;A1
+fr;5-Cognate-Gap;Un __________ aime goûter différents vins.;buveur | boire | boirette | boireur;buveur;boire;A2
+fr;6-Family-Gap;Elle a déjà ________ son café ce matin.;bu | boire | buveur | boit;bu;boire;A1
+fr;6-Family-Gap;Chaque matin, je ________ un grand verre d’eau.;bois | boire | buveur | bu;bois;boire;A1
+fr;1-Gap-Fill;En arrivant au Canada, on peut vraiment __________ changer de vie.;vouloir | boire | porte | mauvais;vouloir;vouloir;A1
+fr;2-Word-Meaning;Je veux apprendre le français rapidement.;avoir l’intention de | boire quelque chose | ressentir le froid | ouvrir la porte;avoir l’intention de;vouloir;A1
+fr;2-Word-Meaning;Beaucoup d’immigrants veulent réussir leur intégration.;aspirent à | fuient | regrettent | négligent;aspirent à;vouloir;A2
+fr;3-Paraphrase;Elle veut réussir au Canada.;désire | famille | porte | mauvais;désire;vouloir;A1
+fr;4-Minimal-Pair;Il veut voyager, tandis que son frère préfère ________ chez lui.;rester | vouloir | boire | mauvais;rester;vouloir;A1
+fr;5-Cognate-Gap;Nous __________ visiter Montréal ensemble.;voulons | vouloir | voulant | voulez;voulons;vouloir;A1
+fr;5-Cognate-Gap;Vous __________ participer à la réunion demain?;voulez | vouloir | voulant | voulus;voulez;vouloir;A1
+fr;6-Family-Gap;Ce __________ d’apprendre est impressionnant.;vouloir | vouloirisme | volonté | voulant;volonté;vouloir;B1
+fr;6-Family-Gap;La ________ de réussir motive beaucoup d’immigrants.;volonté | vouloir | voulant | voulez;volonté;vouloir;B1
+fr;1-Gap-Fill;Il est __________ nécessaire d’apprendre l’anglais au Canada.;absolument | peut-être | mauvais | froid;absolument;absolument;A2
+fr;2-Word-Meaning;Il faut absolument arriver à l’heure au rendez-vous.;sans exception | avec hésitation | rarement | par hasard;sans exception;absolument;A2
+fr;2-Word-Meaning;Ce formulaire doit absolument être signé.;impérativement | optionnellement | lentement | occasionnellement;impérativement;absolument;B1
+fr;3-Paraphrase;Il est absolument essentiel de respecter les règles.;totalement | mauvais | ensemble | porte;totalement;absolument;A2
+fr;4-Minimal-Pair;Il faut absolument s’inscrire aujourd’hui, mais ________ demain.;peut-être | absolument | mauvais | vouloir;peut-être;absolument;A2
+fr;5-Cognate-Gap;Ce livre est __________ passionnant pour les nouveaux arrivants.;absolument | absolutisme | absolution | absolutiste;absolument;absolument;A2
+fr;5-Cognate-Gap;L’__________ est un système politique historique.;absolutisme | absolument | absolution | absolutiste;absolutisme;absolument;B2
+fr;6-Family-Gap;Elle a ________ besoin d’aide pour son dossier.;absolument | absolu | absolutisme | absolution;absolument;absolument;A2
+fr;6-Family-Gap;C’est une décision ________ sans retour.;absolue | absolument | absolutisme | absolution;absolue;absolument;A2
+fr;1-Gap-Fill;Ils apprennent le français __________ à l’école au Québec.;ensemble | famille | porte | mauvais;ensemble;ensemble;A1
+fr;2-Word-Meaning;La famille cuisine ensemble le dimanche.;en groupe | séparément | rarement | difficilement;en groupe;ensemble;A1
+fr;2-Word-Meaning;Travailler ensemble favorise l’intégration.;collectivement | rapidement | aléatoirement | silencieusement;collectivement;ensemble;A1
+fr;3-Paraphrase;Ils vont tous ensemble au cinéma.;en groupe | mauvais | froid | porte;en groupe;ensemble;A1
+fr;4-Minimal-Pair;Ils partent ensemble, mais reviennent ________.;séparément | ensemble | famille | porte;séparément;ensemble;A1
+fr;5-Cognate-Gap;Nous travaillons __________ pour finir ce projet.;ensemble | ensembler | ensemblement | ensembles;ensemble;ensemble;A1
+fr;5-Cognate-Gap;Ce puzzle a mille ________ à assembler.;ensembles | ensemble | ensemblement | ensembler;ensembles;ensemble;B1
+fr;6-Family-Gap;Le mot “__________” est très utilisé dans les cours.;ensemble | ensembler | ensemblement | ensembles;ensemble;ensemble;A1
+fr;6-Family-Gap;Ils vont ________ regarder un film ce soir.;ensemble | ensembles | ensembler | ensemblement;ensemble;ensemble;A1
+fr;1-Gap-Fill;La __________ est très importante pour les Canadiens.;famille | mauvais | porte | ensemble;famille;famille;A1
+fr;2-Word-Meaning;Beaucoup d’immigrants restent proches de leur famille.;leurs proches | leurs voisins | leurs collègues | leurs professeurs;leurs proches;famille;A1
+fr;2-Word-Meaning;La famille est un soutien essentiel lors d’une immigration.;groupe familial | problème administratif | autorité médicale | offre d’emploi;groupe familial;famille;A1
+fr;3-Paraphrase;Elle passe du temps avec sa famille.;ses proches | porte | mauvais | ensemble;ses proches;famille;A1
+fr;4-Minimal-Pair;Il vit avec sa famille, mais son ami vit ________.;seul | famille | mauvais | porte;seul;famille;A1
+fr;5-Cognate-Gap;Toute la __________ se réunit pour les fêtes.;famille | familier | familial | familiarité;famille;famille;A1
+fr;5-Cognate-Gap;Ce cousin est très ________ avec tout le monde.;familier | famille | familial | familiarité;familier;famille;B1
+fr;6-Family-Gap;La vie ________ au Canada est agréable.;familiale | famille | familier | familiarité;familiale;famille;A2
+fr;6-Family-Gap;Il a une attitude très ________ avec ses amis.;familiale | familier | famille | familiarité;familier;famille;B1
+fr;1-Gap-Fill;L’hiver au Québec est souvent très __________.;froid | mauvais | porte | ensemble;froid;froid;A1
+fr;2-Word-Meaning;Il fait froid en janvier à Montréal.;la température est basse | il y a du vent | il fait beau | il fait chaud;la température est basse;froid;A1
+fr;2-Word-Meaning;Le froid extrême peut surprendre les nouveaux arrivants.;température glaciale | ambiance tendue | atmosphère animée | temps variable;température glaciale;froid;A2
+fr;3-Paraphrase;Le climat est froid pendant l’hiver.;glacial | mauvais | porte | ensemble;glacial;froid;A1
+fr;4-Minimal-Pair;Aujourd’hui il fait froid, mais hier il faisait ________.;chaud | froid | mauvais | porte;chaud;froid;A1
+fr;5-Cognate-Gap;Le ________ polaire attire peu de touristes.;froid | froidure | froidement | froideur;froid;froid;A1
+fr;5-Cognate-Gap;L’__________ de cette région surprend les visiteurs.;froideur | froid | froidure | froidement;froideur;froid;B2
+fr;6-Family-Gap;Il a répondu de manière ________ à la question.;froide | froid | froidement | froideur;froide;froid;A2
+fr;6-Family-Gap;Elle parle ________ quand elle est en colère.;froidement | froide | froid | froideur;froidement;froid;B1
+fr;1-Gap-Fill;Le temps est __________ aujourd’hui, prends un manteau.;mauvais | porte | peut-être | froid;mauvais;mauvais;A1
+fr;2-Word-Meaning;Ce n’est pas un mauvais film.;pas bon | très cher | intéressant | rare;pas bon;mauvais;A1
+fr;2-Word-Meaning;Le service dans ce restaurant est mauvais.;médiocre | excellent | cher | silencieux;médiocre;mauvais;A2
+fr;3-Paraphrase;Le repas était mauvais.;pas délicieux | porte | peut-être | froid;pas délicieux;mauvais;A1
+fr;4-Minimal-Pair;Le service est mauvais, mais la nourriture est ________.;bonne | mauvais | porte | peut-être;bonne;mauvais;A1
+fr;5-Cognate-Gap;C’était une ________ idée de sortir sans parapluie.;mauvaise | mauvais | mauvaiseur | mauvaisement;mauvaise;mauvais;A2
+fr;5-Cognate-Gap;Elle a pris une ________ décision hier.;mauvaise | mauvais | mauvaiseur | mauvaisement;mauvaise;mauvais;A2
+fr;6-Family-Gap;La ________ humeur du professeur était évidente.;mauvaise | mauvais | mauvaiseur | mauvaisement;mauvaise;mauvais;A2
+fr;6-Family-Gap;C’est un homme de ________ foi.;mauvaise | mauvais | mauvaiseur | mauvaisement;mauvaise;mauvais;A2
+fr;1-Gap-Fill;Il viendra __________ demain s’il ne neige pas.;peut-être | absolument | porte | froid;peut-être;peut-être;A2
+fr;2-Word-Meaning;Peut-être qu’il va pleuvoir ce soir.;il est possible | c’est certain | c’est faux | il fait froid;il est possible;peut-être;A2
+fr;2-Word-Meaning;Peut-être qu’on ira au parc cet après-midi.;possiblement | fréquemment | sûrement | rarement;possiblement;peut-être;A2
+fr;3-Paraphrase;Peut-être qu’on partira en vacances.;éventuellement | porte | mauvais | famille;éventuellement;peut-être;A2
+fr;4-Minimal-Pair;Il viendra peut-être, mais elle viendra ________.;sûrement | peut-être | porte | famille;sûrement;peut-être;A2
+fr;5-Cognate-Gap;__________ qu’il fasse beau, nous irons au parc.;Peut-être | Peut-étre | Peut-êtrement | Peut-êtreuse;Peut-être;peut-être;A2
+fr;5-Cognate-Gap;Ce mot est parfois mal écrit comme __________.;Peut-étre | Peut-être | Peut-êtrement | Peut-êtreuse;Peut-étre;peut-être;B1
+fr;6-Family-Gap;L’__________ de sa réponse était surprenante.;incertitude | peut-être | éventualité | possibilité;incertitude;peut-être;B2
+fr;6-Family-Gap;Une certaine ________ règne sur la météo demain.;incertitude | peut-être | éventualité | possibilité;incertitude;peut-être;B2
+fr;1-Gap-Fill;Ferme la __________ en sortant, s’il te plaît.;porte | famille | mauvais | froid;porte;porte;A1
+fr;2-Word-Meaning;La porte d’entrée est grande.;l’accès principal | un repas familial | un manteau chaud | un mauvais film;l’accès principal;porte;A1
+fr;2-Word-Meaning;Il faut toujours fermer la porte derrière soi.;l’accès | le repas | la pièce | la maison;l’accès;porte;A1
+fr;3-Paraphrase;Il a ouvert la porte.;l’entrée | famille | mauvais | froid;l’entrée;porte;A1
+fr;4-Minimal-Pair;Il entre par la porte, mais sort par la ________.;fenêtre | porte | famille | froid;fenêtre;porte;A1
+fr;5-Cognate-Gap;Cette ________ mène au salon.;porte | porteur | portière | porté;porte;porte;A1
+fr;5-Cognate-Gap;Le ________ a livré le colis à temps.;porteur | porte | portière | porté;porteur;porte;B1
+fr;6-Family-Gap;Il pousse la ________ pour entrer.;porte | portière | porteur | porté;porte;porte;A1
+fr;6-Family-Gap;La ________ de la voiture est ouverte.;portière | porte | porteur | porté;portière;porte;A2
+en;1-Gap-Fill;The wait for a family doctor in some Canadian cities can be __________.;a bit long | away | jarring | get in touch;a bit long;a bit long;B2
+en;2-Word-Meaning;The orientation session was a bit long.;took more time than expected | happened far away | was confusing | ended quickly;took more time than expected;a bit long;B2
+en;2-Word-Meaning;The instructions were a bit long for a simple process.;overly detailed | rushed | unprepared | basic;overly detailed;a bit long;B2
+en;3-Paraphrase;The immigration process can feel a bit long.;lengthy | away | fizzle out | set aside;lengthy;a bit long;B2
+en;4-Minimal-Pair;The seminar was a bit long, but the lunch break was quite ________.;short | a bit long | amend | get in touch;short;a bit long;B2
+en;5-Cognate-Gap;The line at the Service Canada office was __________.;a bit long | along | longing | longness;a bit long;a bit long;B2
+en;5-Cognate-Gap;The river flows ________ the border between the two provinces.;along | a bit long | longing | longness;along;a bit long;B1
+en;6-Family-Gap;She started to feel __________ after hearing about home.;longing | a bit long | longingness | long;longing;a bit long;B2
+en;6-Family-Gap;His ________ for his homeland was clear in his stories.;longing | longingness | long | a bit long;longing;a bit long;B2
+en;1-Gap-Fill;You should __________ your resume before submitting it to a Canadian employer.;amend | away | jarring | set aside;amend;amend;B2
+en;2-Word-Meaning;The government decided to amend the legislation.;change to improve | take away | set aside | explain;change to improve;amend;B2
+en;2-Word-Meaning;Immigrants may need to amend their plans if their first application is rejected.;adjust | invent | ignore | submit;adjust;amend;B2
+en;3-Paraphrase;He amended the immigration form before sending it.;corrected | set aside | away | fizzle out;corrected;amend;B2
+en;4-Minimal-Pair;You must amend your mistakes, not ________ them.;ignore | amend | away | get in touch;ignore;amend;B2
+en;5-Cognate-Gap;The policy may need to be __________ after review.;amended | amend | amendment | amending;amended;amend;B2
+en;5-Cognate-Gap;The recent __________ was discussed in Parliament.;amendment | amend | amended | amending;amendment;amend;B2
+en;6-Family-Gap;The committee suggested an important __________ to the agreement.;amendment | amend | amended | amending;amendment;amend;B2
+en;6-Family-Gap;She is an active __________ for educational reform.;amender | amendment | amended | amending;amender;amend;C1
+en;1-Gap-Fill;Many students feel homesick when they move __________ from their families.;away | amend | set aside | jarring;away;away;A2
+en;2-Word-Meaning;He moved away last year.;to another place | to work | to study | to cook;to another place;away;A2
+en;2-Word-Meaning;They threw the broken umbrella away after the storm.;disposed of | borrowed | bought | collected;disposed of;away;A2
+en;3-Paraphrase;They are living away from their home country.;far | amend | fizzle out | set aside;far;away;A2
+en;4-Minimal-Pair;She spends summers in Canada and winters ________ in Brazil.;away | jarring | fizzle out | amend;away;away;A2
+en;5-Cognate-Gap;Please put the groceries ________ in the kitchen.;away | aweigh | always | way;away;away;A2
+en;5-Cognate-Gap;The ship’s anchor is ________ and ready to sail.;aweigh | away | always | way;aweigh;away;B1
+en;6-Family-Gap;His decision to move ________ surprised everyone.;away | way | always | awayness;away;away;A2
+en;6-Family-Gap;The ________ of her response made us wonder.;awayness | away | way | always;awayness;away;C1
+en;1-Gap-Fill;Many business ideas __________ if there’s not enough planning.;fizzle out | amend | jarring | set aside;fizzle out;fizzle out;B2
+en;2-Word-Meaning;The project fizzled out.;ended slowly | started quickly | succeeded instantly | was replaced;ended slowly;fizzle out;B2
+en;2-Word-Meaning;If a relationship fizzles out, what usually happens?;gradually ends | becomes famous | intensifies | is renewed;gradually ends;fizzle out;B2
+en;3-Paraphrase;Sometimes plans fizzle out before they begin.;come to nothing | away | amend | set aside;come to nothing;fizzle out;B2
+en;4-Minimal-Pair;While some friendships last, others just ________ over time.;fizzle out | jarring | look into | away;fizzle out;fizzle out;B2
+en;5-Cognate-Gap;The enthusiasm began to ________ after a few weeks.;fizzle out | fizzle | fizzling | fizzleout;fizzle out;fizzle out;B2
+en;5-Cognate-Gap;The soda began to ________ after being left open.;fizzle | fizzle out | fizzling | fizzleout;fizzle;fizzle out;B2
+en;6-Family-Gap;Interest in the event ________ by the end of summer.;fizzled | fizzle | fizzles | fizzler;fizzled;fizzle out;B2
+en;6-Family-Gap;A ________ in enthusiasm was noticed after the first month.;fizzle | fizzled | fizzle out | fizzler;fizzle;fizzle out;C1
+en;1-Gap-Fill;The police said the case requires __________ before closing it.;further investigation | away | set aside | look into;further investigation;further investigation;B2
+en;2-Word-Meaning;They decided on further investigation.;additional checking | instant action | relaxation | rejection;additional checking;further investigation;B2
+en;2-Word-Meaning;The doctor ordered further investigation after the first test results.;more tests | a break | praise | closure;more tests;further investigation;B2
+en;3-Paraphrase;The doctor recommended further investigation of the symptoms.;more tests | away | set aside | jarring;more tests;further investigation;B2
+en;4-Minimal-Pair;Some cases are simple, but others need ________ before a decision.;further investigation | jarring | look into | amend;further investigation;further investigation;B2
+en;5-Cognate-Gap;The report is pending ________ by the manager.;further investigation | further investigate | further investigating | further investigated;further investigation;further investigation;B2
+en;5-Cognate-Gap;The police want to ________ the details.;further investigate | further investigation | further investigating | further investigated;further investigate;further investigation;B2
+en;6-Family-Gap;________ is crucial when results are unclear.;Investigation | Investigate | Investigative | Investigating;Investigation;further investigation;B2
+en;6-Family-Gap;The officer plans to ________ the situation.;investigate | investigation | investigative | investigating;investigate;further investigation;B2
+en;1-Gap-Fill;If you have questions about housing in Toronto, you can __________ with the city hotline.;get in touch | amend | look into | away;get in touch;get in touch;B1
+en;2-Word-Meaning;It’s easy to get in touch with local services.;contact | ignore | move away | amend;contact;get in touch;B1
+en;2-Word-Meaning;When you get in touch with someone, what do you do?;communicate | travel | pay | argue;communicate;get in touch;B1
+en;3-Paraphrase;Please get in touch if you have more information.;contact | away | jarring | fizzle out;contact;get in touch;B1
+en;4-Minimal-Pair;You can get in touch by phone, or ________ by email.;contact | away | amend | set aside;contact;get in touch;B1
+en;5-Cognate-Gap;After moving, I needed to ________ with my friends.;get in touch | touch | touching | touched;get in touch;get in touch;B1
+en;5-Cognate-Gap;The painting is smooth to the ________.;touch | get in touch | touching | touched;touch;get in touch;A2
+en;6-Family-Gap;We lost ________ after high school.;touch | get in touch | touching | touched;touch;get in touch;B1
+en;6-Family-Gap;She ________ the baby’s hand gently.;touched | touch | get in touch | touching;touched;get in touch;A2
+en;1-Gap-Fill;It can take some time to __________ when learning how to use Canadian transit.;get the hang of it | away | amend | set aside;get the hang of it;get the hang of it;B2
+en;2-Word-Meaning;She got the hang of it after a few weeks.;understood how to do it | gave up | set aside | looked into;understood how to do it;get the hang of it;B2
+en;2-Word-Meaning;When you get the hang of something, you…;become comfortable with it | ignore instructions | rush through | lose interest;become comfortable with it;get the hang of it;B2
+en;3-Paraphrase;You’ll get the hang of it with practice.;learn how | away | jarring | look into;learn how;get the hang of it;B2
+en;4-Minimal-Pair;At first it’s confusing, but soon you’ll ________.;get the hang of it | away | amend | set aside;get the hang of it;get the hang of it;B2
+en;5-Cognate-Gap;Most people __________ after a few attempts.;get the hang of it | get the hanging | hang | hanging;get the hang of it;get the hang of it;B2
+en;5-Cognate-Gap;He put his coat on a ________ near the door.;hang | get the hang of it | hanging | get the hanging;hang;get the hang of it;A2
+en;6-Family-Gap;After several tries, she finally ________ the concept.;got | get | get the hang of it | getting;got;get the hang of it;B1
+en;6-Family-Gap;She is ________ the routine of her new job.;getting | get | got | get the hang of it;getting;get the hang of it;B1
+en;1-Gap-Fill;The sudden change in weather from hot to cold was quite __________.;jarring | away | amend | fizzle out;jarring;jarring;C1
+en;2-Word-Meaning;The sound of the alarm was jarring.;shocking | away | amend | pleasant;shocking;jarring;C1
+en;2-Word-Meaning;The color combination in the room was jarring.;clashing | smooth | trendy | expensive;clashing;jarring;C1
+en;3-Paraphrase;His comment during the meeting was jarring.;unsettling | away | amend | set aside;unsettling;jarring;C1
+en;4-Minimal-Pair;Some people find the city noise jarring, others find it ________.;soothing | jarring | away | set aside;soothing;jarring;C1
+en;5-Cognate-Gap;The colors in the painting are a bit __________.;jarring | jar | jarringly | jarred;jarring;jarring;C1
+en;5-Cognate-Gap;She opened the ________ of jam in the kitchen.;jar | jarring | jarringly | jarred;jar;jarring;A2
+en;6-Family-Gap;The abrupt transition was quite __________.;jarring | jar | jarringly | jarred;jarring;jarring;C1
+en;6-Family-Gap;He ________ the lid tightly onto the container.;jarred | jarring | jar | jarringly;jarred;jarring;B2
+en;1-Gap-Fill;The months that __________ Canada Day are full of community events.;lead up to | away | jarring | set aside;lead up to;lead up to;B2
+en;2-Word-Meaning;There were many activities that led up to the ceremony.;happened before | happened after | happened far away | happened by chance;happened before;lead up to;B2
+en;2-Word-Meaning;The changes in policy led up to the new law.;resulted in | followed | prevented | delayed;resulted in;lead up to;B2
+en;3-Paraphrase;A series of meetings led up to the final decision.;preceded | away | amend | fizzle out;preceded;lead up to;B2
+en;4-Minimal-Pair;The weeks lead up to the festival, but the days after are ________.;quiet | lead up to | away | fizzle out;quiet;lead up to;B2
+en;5-Cognate-Gap;There are celebrations that __________ Canada Day.;lead up to | leading up | leaded up | lead up;lead up to;lead up to;B2
+en;5-Cognate-Gap;The students are ________ their presentations next week.;leading up | lead up to | leaded up | lead up;leading up;lead up to;B2
+en;6-Family-Gap;The ________ to the event took months of planning.;lead-up | lead up to | leading up | leaded up;lead-up;lead up to;B2
+en;6-Family-Gap;The ________ process was stressful for the organizers.;leading up | lead-up | leaded up | lead up to;leading up;lead up to;B2
+en;1-Gap-Fill;Many newcomers find it hard to __________ friends and family when moving to Canada.;leave behind | away | amend | jarring;leave behind;leave behind;B2
+en;2-Word-Meaning;She had to leave behind her old job.;not take with her | finish | get promoted | sell;not take with her;leave behind;B2
+en;2-Word-Meaning;Immigrants often have to leave behind many possessions.;abandon | donate | keep | replace;abandon;leave behind;B2
+en;3-Paraphrase;He left behind his hometown for a new opportunity.;departed from | away | amend | set aside;departed from;leave behind;B2
+en;4-Minimal-Pair;It is difficult to leave behind the past, but exciting to ________ the future.;embrace | leave behind | away | amend;embrace;leave behind;B2
+en;5-Cognate-Gap;You sometimes have to __________ certain habits to adapt.;leave behind | left behind | leaving behind | leaved behind;leave behind;leave behind;B2
+en;5-Cognate-Gap;She ________ all her worries and started fresh.;left behind | leave behind | leaving behind | leaved behind;left behind;leave behind;B2
+en;6-Family-Gap;The ________ of her country was emotional.;leaving | leave behind | left behind | leaved behind;leaving;leave behind;B2
+en;6-Family-Gap;He is ________ his old life and starting over.;leaving | leave behind | left behind | leaved behind;leaving;leave behind;B2
+en;1-Gap-Fill;Newcomers are encouraged to __________ local resources for job hunting.;look into | away | jarring | set aside;look into;look into;B2
+en;2-Word-Meaning;It’s important to look into all your options before choosing a university.;research | forget | explain | delay;research;look into;B2
+en;2-Word-Meaning;When you look into a situation, you…;investigate it | accept it as is | abandon it | dismiss it;investigate it;look into;B2
+en;3-Paraphrase;They promised to look into the complaint.;investigate | away | fizzle out | get in touch;investigate;look into;B2
+en;4-Minimal-Pair;You should look into housing early, not ________ it until the last minute.;delay | look into | away | set aside;delay;look into;B2
+en;5-Cognate-Gap;The manager asked the team to __________ the problem.;look into | looking into | looked into | lookin to;look into;look into;B2
+en;5-Cognate-Gap;She is __________ the company’s finances now.;looking into | look into | looked into | lookin to;looking into;look into;B2
+en;6-Family-Gap;Their __________ revealed several issues.;investigation | look into | investigate | looking into;investigation;look into;B2
+en;6-Family-Gap;The inspector will ________ the complaint soon.;investigate | investigation | look into | looking into;investigate;look into;B2
+en;1-Gap-Fill;Three cities were mentioned, __________ Vancouver, Calgary, and Montreal.;namely | remarkably | set aside | away;namely;namely;B2
+en;2-Word-Meaning;Some provinces, namely Quebec and Ontario, have specific programs for immigrants.;specifically | randomly | approximately | occasionally;specifically;namely;B2
+en;2-Word-Meaning;You should visit some Canadian landmarks, namely Niagara Falls and Banff.;that is to say | or not | after all | alternatively;that is to say;namely;B2
+en;3-Paraphrase;Several festivals, namely Winterlude, take place in February.;specifically | away | set aside | remarkably;specifically;namely;B2
+en;4-Minimal-Pair;Many foods are healthy, __________ vegetables.;namely | away | set aside | remarkably;namely;namely;B2
+en;5-Cognate-Gap;There are two options, __________: bus or train.;namely | naming | name | named;namely;namely;B2
+en;5-Cognate-Gap;They are ________ the award after a famous author.;naming | named | namely | name;naming;namely;B2
+en;6-Family-Gap;He is known ________ for his scientific research.;namely | naming | named | name;namely;namely;B2
+en;6-Family-Gap;The ________ of the company changed last year.;name | naming | namely | named;name;namely;A2
+en;1-Gap-Fill;__________, she finished her degree while working full time and raising two kids.;Remarkably | Namely | Set aside | Take place;Remarkably;Remarkably;B2
+en;2-Word-Meaning;Remarkably, the process was completed in just one week.;surprisingly | slowly | unfortunately | never;surprisingly;Remarkably;B2
+en;2-Word-Meaning;He managed, remarkably, to learn both English and French in one year.;in an impressive way | with difficulty | by accident | at random;in an impressive way;Remarkably;B2
+en;3-Paraphrase;Remarkably, there were no delays during the trip.;surprisingly | away | set aside | fizzle out;surprisingly;Remarkably;B2
+en;4-Minimal-Pair;The winter was mild, but the following spring was ________ cold.;remarkably | away | set aside | namely;remarkably;Remarkably;B2
+en;5-Cognate-Gap;The team performed __________ under pressure.;remarkably | remarkable | remark | remarkedly;remarkably;Remarkably;B2
+en;5-Cognate-Gap;That was a ________ improvement in your pronunciation.;remarkable | remarkably | remark | remarkedly;remarkable;Remarkably;B2
+en;6-Family-Gap;He made a ________ during the meeting.;remark | remarkable | remarked | remarkably;remark;Remarkably;B2
+en;6-Family-Gap;She ________ on the unusual weather.;remarked | remarkable | remarkably | remark;remarked;Remarkably;B2
+en;1-Gap-Fill;If you want to save money for emergencies, __________ a small amount each month.;set aside | away | amend | lead up to;set aside;set aside;B2
+en;2-Word-Meaning;It’s smart to set aside money for unexpected expenses.;save | borrow | waste | spend;save;set aside;B2
+en;2-Word-Meaning;The judge decided to set aside the previous verdict.;cancel | delay | postpone | consider;cancel;set aside;C1
+en;3-Paraphrase;You should set aside time to study every day.;reserve | away | fizzle out | get in touch;reserve;set aside;B2
+en;4-Minimal-Pair;He set aside the letter, but decided to ________ the bill.;pay | set aside | lead up to | away;pay;set aside;B2
+en;5-Cognate-Gap;They agreed to __________ their differences for the project.;set aside | setasider | setting aside | setasidement;set aside;set aside;B2
+en;5-Cognate-Gap;He ________ his personal issues to focus on work.;set aside | setasided | setting aside | setasidement;set aside;set aside;B2
+en;6-Family-Gap;Their ________ allowed them to invest in a new home.;savings | set aside | reserved | saving;savings;set aside;B1
+en;6-Family-Gap;She ________ money for her daughter’s education.;saved | set aside | saving | reserves;saved;set aside;B1
+en;1-Gap-Fill;The Canada Day fireworks will __________ at 10 p.m. sharp.;take place | away | jarring | set aside;take place;take place;B1
+en;2-Word-Meaning;The ceremony will take place at City Hall.;happen | finish | delay | cancel;happen;take place;B1
+en;2-Word-Meaning;The meeting took place last Thursday.;was held | was canceled | was postponed | was ignored;was held;take place;B1
+en;3-Paraphrase;The event will take place next week.;occur | away | fizzle out | set aside;occur;take place;B1
+en;4-Minimal-Pair;While some events take place in summer, others occur in ________.;winter | take place | away | set aside;winter;take place;A2
+en;5-Cognate-Gap;The exam will __________ in May.;take place | taking place | taken place | takes place;take place;take place;B1
+en;5-Cognate-Gap;Several meetings are ________ this month.;taking place | take place | taken place | takes place;taking place;take place;B1
+en;6-Family-Gap;The ________ was broadcast live.;event | take place | occurrence | happening;event;take place;A2
+en;6-Family-Gap;She ________ the party at her house.;hosted | take place | took place | hostedly;hosted;take place;B1
+en;1-Gap-Fill;The new immigration policy went into effect on July 1. __________, application procedures changed.;Thereafter | Away | Namely | Aka;Thereafter;Thereafter;C1
+en;2-Word-Meaning;Thereafter, the rules were strictly enforced.;from that point on | occasionally | previously | before that;from that point on;Thereafter;C1
+en;2-Word-Meaning;The service opened in May. Thereafter, more locations were added.;afterward | always | suddenly | before;afterward;Thereafter;C1
+en;3-Paraphrase;You must submit the documents. Thereafter, you’ll be contacted.;afterward | away | set aside | fizzle out;afterward;Thereafter;C1
+en;4-Minimal-Pair;The new law was passed in June. __________, complaints decreased.;Thereafter | away | set aside | namely;Thereafter;Thereafter;C1
+en;5-Cognate-Gap;You must complete your test; __________, you may leave.;thereafter | there after | thereaftering | afterthere;thereafter;Thereafter;C1
+en;5-Cognate-Gap;They moved away. __________, they lost contact with friends.;thereafter | thereaftering | there after | afterthere;thereafter;Thereafter;C1
+en;6-Family-Gap;The ________ results will be published on the website.;subsequent | thereafter | subsequentness | subsequently;subsequent;Thereafter;C1
+en;6-Family-Gap;The winner will be announced; all prizes distributed ________.;afterward | thereafter | subsequently | subsequent;afterward;Thereafter;C1
+en;1-Gap-Fill;Spreading false information can be __________ to public trust.;undermining | away | set aside | fizzle out;undermining;undermining;C1
+en;2-Word-Meaning;Such behavior is undermining the team’s morale.;weakening | improving | challenging | highlighting;weakening;undermining;C1
+en;2-Word-Meaning;He kept undermining his own progress by skipping classes.;sabotaging | supporting | sharing | celebrating;sabotaging;undermining;C1
+en;3-Paraphrase;Negative news can be undermining to your confidence.;damaging | away | set aside | lead up to;damaging;undermining;C1
+en;4-Minimal-Pair;Good leadership strengthens, while poor leadership ________ a team.;undermines | undermining | supports | joins;undermines;undermining;C1
+en;5-Cognate-Gap;Criticism from coworkers can be __________.;undermining | undermine | undermined | underminer;undermining;undermining;C1
+en;5-Cognate-Gap;He tried to __________ her authority in the meeting.;undermine | undermining | undermined | underminer;undermine;undermining;C1
+en;6-Family-Gap;The ________ of the foundation caused the building to lean.;weakening | undermining | undermine | weakened;weakening;undermining;C1
+en;6-Family-Gap;Their efforts were ________ by constant criticism.;undermined | undermining | undermine | underminer;undermined;undermining;C1
+en;1-Gap-Fill;Some students prefer exams, ________ others like projects.;whereas | away | set aside | fizzle out;whereas;whereas;B2
+en;2-Word-Meaning;He works days, whereas his wife works nights.;in contrast | at the same time | by chance | as well;in contrast;whereas;B2
+en;2-Word-Meaning;Whereas many people drive to work, some cycle.;while | after | before | until;while;whereas;B2
+en;3-Paraphrase;Whereas some prefer the city, others choose the suburbs.;while | away | set aside | fizzle out;while;whereas;B2
+en;4-Minimal-Pair;Canada has cold winters, ________ Brazil is usually warm.;whereas | away | set aside | namely;whereas;whereas;B2
+en;5-Cognate-Gap;Some students choose French, ________ others pick English.;whereas | whereasly | whereasness | whereasing;whereas;whereas;B2
+en;5-Cognate-Gap;________, the proposal was accepted by the committee.;Whereas | Whereasly | Whereasness | Whereasing;Whereas;whereas;B2
+en;6-Family-Gap;________, the city is vibrant and welcoming.;Overall | Whereas | Whereasly | Whereasing;Overall;whereas;B2
+en;6-Family-Gap;________, it’s important to compare the two systems.;Conversely | Whereas | Whereasly | Whereasing;Conversely;whereas;C1
+en;1-Gap-Fill;He’s also known __________ “The Fixer” in his neighborhood.;aka | away | set aside | fizzle out;aka;aka;B2
+en;2-Word-Meaning;“Aka” stands for “also known as.”;alias | nickname | away | amend;alias;aka;B2
+en;2-Word-Meaning;On official forms, “aka” is used for…;another name | occupation | address | nationality;another name;aka;B2
+en;3-Paraphrase;She is aka “The Organizer” at work.;also called | away | set aside | lead up to;also called;aka;B2
+en;4-Minimal-Pair;He’s aka “The Chef,” but his real name is ________.;Michael | aka | away | set aside;Michael;aka;B2
+en;5-Cognate-Gap;He was listed as ________ John Smith in the database.;aka | akaed | akaing | akas;aka;aka;B2
+en;5-Cognate-Gap;The company is ________ as “EcoCorp.”;known | aka | akaed | akaing;known;aka;B2
+en;6-Family-Gap;The term ________ is often used for celebrities.;aka | akas | akaed | akaing;aka;aka;B2
+en;6-Family-Gap;Her ________ was included in the report.;alias | aka | akas | akaing;alias;aka;B2
