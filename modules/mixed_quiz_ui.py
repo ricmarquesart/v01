@@ -2,6 +2,7 @@ import streamlit as st
 import random
 import datetime
 import re
+import pandas as pd
 from collections import defaultdict
 from core.data_manager import (
     get_session_db, get_history, save_history, reset_quiz_state, 
@@ -24,37 +25,11 @@ def mixed_quiz_ui(flashcards, gpt_exercicios, language, debug_mode):
     gpt_exercicios_filtrados = [ex for ex in gpt_exercicios if ex.get('tipo') != '7-Cloze-Text']
     db_df = get_session_db(language)
 
-    if debug_mode:
-        st.subheader(f"Modo de Depuração Detalhado ({get_text('mixed_quiz_button', language)})")
-        st.write("---")
-        st.markdown(f"**1. Dados de Entrada:**")
-        st.write(f"- Flashcards ANKI recebidos: `{len(flashcards)}`")
-        st.write(f"- Exercícios GPT (padrão) recebidos: `{len(gpt_exercicios_filtrados)}`")
-        
-        palavras_ativas_debug = db_df[db_df['ativa']]
-        st.markdown(f"**2. Palavras Ativas:**")
-        st.write(f"- Total de palavras ativas encontradas: `{len(palavras_ativas_debug)}`")
-
-        st.markdown(f"**3. Geração da Playlist:**")
-        flashcards_map_debug = {card['front']: card for card in flashcards}
-        gpt_map_debug = defaultdict(list)
-        for ex in gpt_exercicios_filtrados:
-            if isinstance(ex.get('principal'), str):
-                gpt_map_debug[ex['principal']].append(ex)
-        
-        playlist_debug = selecionar_questoes_priorizadas(palavras_ativas_debug, flashcards_map_debug, gpt_map_debug, 10)
-        st.write(f"- Questões geradas para a playlist de depuração: `{len(playlist_debug)}`")
-        with st.expander("Ver dados da playlist de depuração"):
-            st.json(playlist_debug)
-        
-        st.markdown("#### 4. Diagnóstico Final")
-        if (not flashcards and not gpt_exercicios_filtrados) or palavras_ativas_debug.empty or not playlist_debug:
-             st.error("PROBLEMA CENTRAL DETECTADO: A playlist de questões está vazia. Verifique se os arquivos de dados foram carregados e se há palavras ativas com exercícios correspondentes.")
-        else:
-            st.success("SUCESSO NA DEPURAÇÃO: A playlist foi gerada corretamente.")
-        st.divider()
-
-    palavras_ativas = db_df[db_df['ativa'] == True]
+    # CORREÇÃO DEFINITIVA: Verifica se o DataFrame não está vazio e se a coluna 'ativa' existe
+    if not db_df.empty and 'ativa' in db_df.columns:
+        palavras_ativas = db_df[db_df['ativa'] == True]
+    else:
+        palavras_ativas = pd.DataFrame(columns=db_df.columns)
     
     flashcards_map = {card['front']: card for card in flashcards}
     gpt_exercicios_map = defaultdict(list)

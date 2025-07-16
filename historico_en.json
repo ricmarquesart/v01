@@ -36,6 +36,79 @@
             ],
             "score": 0,
             "total": 10
+        },
+        {
+            "data": "2025-07-16T11:15:29.993316",
+            "acertos": [
+                "jarring"
+            ],
+            "erros": [
+                "fizzle out",
+                "whereas",
+                "Remarkably",
+                "get the hang of it",
+                "set aside",
+                "Thereafter",
+                "look into",
+                "away"
+            ],
+            "score": 10,
+            "total": 10
+        },
+        {
+            "data": "2025-07-16T11:15:30.095781",
+            "acertos": [
+                "jarring"
+            ],
+            "erros": [
+                "fizzle out",
+                "whereas",
+                "Remarkably",
+                "get the hang of it",
+                "set aside",
+                "Thereafter",
+                "look into",
+                "away"
+            ],
+            "score": 10,
+            "total": 10
+        },
+        {
+            "data": "2025-07-16T11:15:31.329164",
+            "acertos": [
+                "jarring"
+            ],
+            "erros": [
+                "fizzle out",
+                "whereas",
+                "Remarkably",
+                "get the hang of it",
+                "set aside",
+                "Thereafter",
+                "look into",
+                "away"
+            ],
+            "score": 10,
+            "total": 10
+        },
+        {
+            "data": "2025-07-16T11:16:30.687506",
+            "acertos": [
+                "take place",
+                "Thereafter"
+            ],
+            "erros": [
+                "a bit long",
+                "whereas",
+                "further investigation",
+                "amend",
+                "look into",
+                "fizzle out",
+                "undermining",
+                "namely"
+            ],
+            "score": 20,
+            "total": 10
         }
     ],
     "mixed_quiz": [
@@ -111,6 +184,24 @@
                 "get in touch"
             ],
             "score": 70,
+            "total": 10
+        },
+        {
+            "data": "2025-07-16T12:03:44.180050",
+            "acertos": [
+                "take place",
+                "undermining",
+                "Undermining",
+                "get in touch"
+            ],
+            "erros": [
+                "fizzle out",
+                "further investigation",
+                "look into",
+                "a bit long",
+                "namely"
+            ],
+            "score": 40,
             "total": 10
         }
     ]

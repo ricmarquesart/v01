@@ -1,6 +1,7 @@
 import streamlit as st
 import random
 import datetime
+import pandas as pd
 from core.data_manager import (
     save_history, get_session_db, reset_quiz_state, get_history,
     update_progress_from_quiz, TIPOS_EXERCICIO_ANKI
@@ -21,42 +22,11 @@ def quiz_ui(flashcards, gpt_exercicios, language, debug_mode):
     
     db_df = get_session_db(language)
 
-    if debug_mode:
-        st.subheader("Modo de Depuração Detalhado (Quiz ANKI)")
-        st.write("---")
-        
-        st.markdown("#### 1. Verificação de Dados de Entrada")
-        st.write(f"Total de Flashcards recebidos: `{len(flashcards)}`")
-        if not flashcards:
-            st.error("NENHUM FLASHCARD CARREGADO. Verifique se o arquivo `cartoes_validacao.txt` existe e não está vazio.")
-        with st.expander("Ver amostra dos Flashcards (os 2 primeiros)"):
-            st.json(flashcards[:2])
-        
-        palavras_ativas_debug = db_df[db_df['ativa'] == True]
-        st.markdown("#### 2. Verificação de Palavras Ativas")
-        st.write(f"Total de palavras ativas encontradas no banco de dados: `{len(palavras_ativas_debug)}`")
-        if palavras_ativas_debug.empty:
-            st.error("NENHUMA PALAVRA ATIVA ENCONTRADA. Vá para 'Estatísticas & Gerenciador' e marque algumas palavras como ativas.")
-
-        st.markdown("#### 3. Tentativa de Geração da Playlist")
-        baralho_map_debug = {card['front']: card for card in flashcards}
-        playlist_debug = []
-        try:
-            playlist_debug = selecionar_questoes_priorizadas(palavras_ativas_debug, baralho_map_debug, {}, 10)
-            st.write(f"Questões geradas para a playlist de depuração: `{len(playlist_debug)}`")
-            with st.expander("Ver dados da playlist gerada"):
-                st.json(playlist_debug)
-        except Exception as e:
-            st.error(f"Ocorreu um erro CRÍTICO ao tentar gerar a playlist: {e}")
-
-        st.markdown("#### 4. Diagnóstico Final")
-        if not flashcards or palavras_ativas_debug.empty or not playlist_debug:
-             st.error("PROBLEMA CENTRAL DETECTADO: A playlist de questões está vazia. O quiz não pode começar. Verifique os erros apontados acima.")
-        else:
-            st.success("SUCESSO NA DEPURAÇÃO: A playlist foi gerada corretamente. O quiz deveria funcionar.")
-        st.divider()
-
-    palavras_ativas = db_df[db_df['ativa'] == True]
+    # CORREÇÃO DEFINITIVA: Verifica se o DataFrame não está vazio e se a coluna 'ativa' existe
+    if not db_df.empty and 'ativa' in db_df.columns:
+        palavras_ativas = db_df[db_df['ativa'] == True]
+    else:
+        palavras_ativas = pd.DataFrame(columns=db_df.columns)
     baralho_map = {card['front']: card for card in flashcards}
 
     tipos_legenda = {

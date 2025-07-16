@@ -3,6 +3,7 @@ import random
 import re
 import datetime
 from collections import defaultdict
+import pandas as pd
 from core.data_manager import (
     reset_quiz_state, save_history, get_session_db, get_history,
     update_progress_from_quiz, load_and_cache_data
@@ -24,7 +25,12 @@ def gpt_ex_ui(gpt_exercicios, language, debug_mode):
     gpt_exercicios_filtrados = [ex for ex in gpt_exercicios if ex.get('tipo') != '7-Cloze-Text']
 
     db_df = get_session_db(language)
-    palavras_ativas = db_df[db_df['ativa'] == True]
+    
+    # CORREÇÃO DEFINITIVA: Verifica se o DataFrame não está vazio e se a coluna 'ativa' existe
+    if not db_df.empty and 'ativa' in db_df.columns:
+        palavras_ativas = db_df[db_df['ativa'] == True]
+    else:
+        palavras_ativas = pd.DataFrame(columns=db_df.columns)
     
     gpt_exercicios_map = defaultdict(list)
     for ex in gpt_exercicios_filtrados:
@@ -44,7 +50,10 @@ def gpt_ex_ui(gpt_exercicios, language, debug_mode):
             for error in parsing_errors:
                 if "GPT" in error: st.code(error)
         
-        palavras_ativas_debug = db_df[db_df['ativa']]
+        if not db_df.empty and 'ativa' in db_df.columns:
+            palavras_ativas_debug = db_df[db_df['ativa']]
+        else:
+            palavras_ativas_debug = pd.DataFrame(columns=db_df.columns)
         st.markdown(f"**2. Palavras Ativas:**")
         st.write(f"- Total de palavras ativas encontradas: `{len(palavras_ativas_debug)}`")
 

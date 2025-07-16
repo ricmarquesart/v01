@@ -1,0 +1,7 @@
+# Firebase secrets
+.streamlit/secrets.toml
+canada-2c772-firebase-adminsdk-fbsvc-94a6e8f185.json
+
+# Python cache
+__pycache__/
+*.pyc

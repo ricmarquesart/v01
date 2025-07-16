@@ -109,7 +109,7 @@ def estatisticas_ui(language):
         "palavra": st.column_config.TextColumn(get_text("col_word", language), width="large", disabled=True),
         "fonte": st.column_config.TextColumn(get_text("col_source", language), disabled=True),
         "progresso_percent": st.column_config.ProgressColumn(get_text("col_progress", language), format="%.0f%%", min_value=0, max_value=100),
-        "mestria": st.column_config.TextColumn(get_text("col_status", language), help=get_text("col_status_help", language)),
+        "mestria": st.column_config.TextColumn(get_text("col_status", language), help=get_text("col_status_help", language), disabled=True),
     }
 
     if mostrar_detalhes:
